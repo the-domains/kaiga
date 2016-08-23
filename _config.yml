@@ -1,0 +1,14 @@
+layout_spectrum: 0.3174006
+typography_spectrum: 0.9092373
+color:
+  saturation: 0.575188
+  brandStrength: 0.7313763
+  lightness: 0.575188
+  brandColors:
+    - '#B9B9B7'
+    - '#FFFFFF'
+    - '#394949'
+    - '#89D7E4'
+    - '#6C6C6A'
+  rhythmicContrast: 0.7094522
+name: Kaiga
